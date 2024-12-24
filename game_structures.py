@@ -1,3 +1,6 @@
+## These constants have been defined as a starting point.
+## You may find yourself wanting to define things a little differently for your
+##  implementation. That's fine.
 NUM_CARDS_IN_HAND = 5
 NUM_CARDS_IN_DECK = 24
 
@@ -222,3 +225,4 @@ def print_hand(hand):
 		cur_card_node = cur_card_node['next']
 		index += 1
 	print('====')
+
