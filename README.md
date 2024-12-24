@@ -1,4 +1,4 @@
-# Implement-a-card-game-Euchre
+# Implement a card game: Euchre
 
 
 ## Objectives
