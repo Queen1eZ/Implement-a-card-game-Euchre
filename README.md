@@ -44,13 +44,6 @@ The deck used for UW-Euchre is a subset of the traditional 52-card deck.
 It includes the Ace, King, Queen, Jack, 10 & 9 of all four suits (Spades, Diamonds, 
 Hearts, and Clubs).
 
-## Provided Starter Code
-
-* `game_structures.py` is the same starter file from A3. It's here for reference/convenience; feel free to replace it with your file. 
-* `game_structures_test.py` provides some tests to ensure your A3 code works properly. 
-* `game_play.py` specifies the functions you need to implement for this assignment. 
-* `game_play_test.py` provides some tests to ensure your new A4 functions work properly.
-
 ## Running 
 
 To run tests: 
