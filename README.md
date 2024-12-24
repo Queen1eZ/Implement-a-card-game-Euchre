@@ -1,13 +1,5 @@
 # Implement a card game: Euchre
 
-
-## Objectives
-
-* Implementing applied data structures
-* Utilize data structure implementations
-* Implement your first sort function
-* Become familiar with a Python testing framework 
-
 # Overview
 
 In this project, I am going to implement some key components to a card game. 
